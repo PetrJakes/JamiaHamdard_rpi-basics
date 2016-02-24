@@ -4,8 +4,8 @@ This repository contains the scipts that were used for my initial projects on Ra
 
 1. The step by step procedure of how to make an LED blink including the required harware connections along with the circuit diagrams can be found on - https://sites.google.com/site/projectsriza/blink-an-led
 
-Test script - led_blink.py
+--Test script - led_blink.py
 
 2. The complete procedure of using an IR module with Raspberry Pi to detect obstacles in range and black line on a white background can be found on - https://sites.google.com/site/projectsriza/ir-sensor-for-line-and-obstacle-detection
 
-Test script - sensor_test.py 
+--Test script - sensor_test.py 
