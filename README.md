@@ -8,4 +8,8 @@ I. The step by step procedure of how to make an LED blink including the required
 
 II. The complete procedure of using an IR module with Raspberry Pi to detect obstacles in range and black line on a white background can be found on - https://sites.google.com/site/projectsriza/ir-sensor-for-line-and-obstacle-detection
 
---Test script - sensor_test.py 
+--Test script - sensor_test.py
+
+III. A detailed description of how to control a DC motor with you Raspberry Pi using an L293D motor driver board can be found on - https://sites.google.com/site/projectsriza/controlling-a-dc-motor-using-l293d-motor-driver-board
+
+--Test script - motor_test.py 
