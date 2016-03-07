@@ -13,3 +13,7 @@ II. The complete procedure of using an IR module with Raspberry Pi to detect obs
 III. A detailed description of how to control a DC motor with you Raspberry Pi using an L293D motor driver board can be found on - https://sites.google.com/site/projectsriza/controlling-a-dc-motor-using-l293d-motor-driver-board
 
 --Test script - motor_test.py 
+
+IV. A detailed description of how to use a push button to control an LED can be fount on - https://sites.google.com/site/projectsriza/using-a-push-button-to-control-an-led
+
+--Test script - pushbutton_test.py
